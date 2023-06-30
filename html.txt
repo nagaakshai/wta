@@ -1,0 +1,1530 @@
+---------------
+resume
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PROG 1</title>
+<style>
+    .toppart.h1{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    .midl{
+        text-align: center;
+    }
+    th,td{
+        border-collapse:collapse;
+        font-size: 20px;
+        margin-left: auto;
+        margin-right: auto;
+        border:1px solid #000;
+        text-align: center;
+        padding: 16px;
+    }
+</style>
+
+
+</head>
+<p>
+    <div class="toppart">
+        <img align="right" src="./prof.jpg" width="300" height="100" class=".ribbon">
+        <h1>&nbsp;  MEDAM<br> &nbsp;  NAGA<br>&nbsp;  AKSHAI</h1>
+        <h1></h1>
+        <hr>
+    </div>
+    <div class="midl">
+        <p>
+        <Phone>9494223375</Phone>&nbsp;&nbsp;
+        &nbsp;&nbsp;<a style="text-decoration: none;text-decoration-color: black" href="https://Bengaluru">Bengaluru</a>
+        &nbsp;&nbsp;<mail>reachnagaakshai@gmail.com</mail>
+        &nbsp;&nbsp;<a  style="text-decoration:none;" href="https://linkedin.com">Linkedin</a>
+        &nbsp;&nbsp;<a style="text-decoration: none;" href="https://github.com">Github</a>
+    </p>
+    </div>
+    <div>
+        <hr>
+        <h3>Objectives:</h3>
+        <param>
+            Hardworking and passionated job seeker with strong organization skills eager to secure entry-lever Software Developer position. Ready to help team achieve company goals. Intrested in working on anykind of open source Softwares 
+        </param>
+        <hr>
+    </div>
+    <h3>Education:</h3>
+    <center>
+    <div class="tab">
+        <table style="border-collapse: collapse; border: solid;">
+            <tr>
+            <th>Qualification </th>
+            <th>Institution</th>
+            <th>Score Obtained</th>
+            <th>Year of Passing</th>
+        </tr>
+        <tr>
+            <td>BE(ISE) </td>
+            <td>BNMIT</td>
+            <td>9.30(CGPA)</td>
+            <td>2024</td>
+        </tr>
+        <tr>
+            <td>Intermediate    </td>
+            <td>FIITJEE Junior College</td>
+            <td>92%</td>
+            <td>2020</td>
+        </tr>
+        <tr>
+            <td>X class (SSC)</td>
+            <td>Sri Chaitanya e-Techno School</td>
+            <td>100%</td>
+            <td>2018</td>
+        </tr>
+        </table>
+    </div>
+</center>
+<br>
+<hr>
+<h3>
+    Skills: 
+</h3>
+<p>C++, C, JAVA, Python, HTML, CSS, PHP</p>
+<hr>
+<h3>Hobbies</h3>
+<p>Reading books,playing games, exploring new things</p>
+<hr>
+<h3>
+    Strengths: 
+</h3>
+<p>
+     Dedicated learning.<br> 
+     Self-Motivation.<br>  People management.<br>  Critical Thinking.</p>
+</p>
+    <hr>
+<h3>
+    Declaration:
+</h3>
+<p>I agree that all the above data is correct and any wrong data provided by be will be offence</p>
+<br><br><p>SIGN</p>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+e-book
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<title>VISION</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <img src="./prof.jpg" width="1300" height="1000">
+<h1>VISON</h1>
+<p>VISON book created by me.</p>
+<body>
+    <div class="intro">
+    
+    <h1>Intro</h1>
+    
+    <h3>The nature of reality.</h3>
+    
+    <p>Metaphysics is the part of philosophy that studies the nature of reality.</p>
+    
+    <p>When we look around, we can see:</p>
+    <ul>
+    <li>Nature</li>
+    <li>Animals</li>
+    <li>People</li>
+    <li>Houses</li>
+    <li>Cars</li>
+    <li>and much more</li>
+    </ul>
+    
+    <p>Is this Virtual Reality real?</p>
+    
+    <p>In Metaphysics, the questions is:</p>
+    <ul>
+    <li>What is real?</li>
+    <li>Is what we see real?</li>
+    <li>Is there more than we see?</li>
+    <li>Is there more than we sence?</li>
+    <li>Is there something else?</li>
+    <li>Is there something more?</li>
+    <li>Is there another dimension?</li>
+    </ul>
+    </div>
+    <div class="ch1">
+    
+        <h1>Chapter 1</h1>
+        
+        <h3>The nature of reality.</h3>
+        
+        <p>Metaphysics is the part of philosophy that studies the nature of reality.</p>
+        
+        <p>When we look around, we can see:</p>
+        <ul>
+        <li>Nature</li>
+        <li>Animals</li>
+        <li>People</li>
+        <li>Houses</li>
+        <li>Cars</li>
+        <li>and much more</li>
+        </ul>
+        
+        <p>Is this Virtual Reality real?</p>
+        
+        <p>In Metaphysics, the questions is:</p>
+        <ul>
+        <li>What is real?</li>
+        <li>Is what we see real?</li>
+        <li>Is there more than we see?</li>
+        <li>Is there more than we sence?</li>
+        <li>Is there something else?</li>
+        <li>Is there something more?</li>
+        <li>Is there another dimension?</li>
+        </ul>
+        </div>
+        <div class="ch2">
+    
+            <h1>Chapter 2</h1>
+            
+            <h3>The nature of reality.</h3>
+            
+            <p>Metaphysics is the part of philosophy that studies the nature of reality.</p>
+            
+            <p>When we look around, we can see:</p>
+            
+            <p>Is this Virtual Reality real?</p>
+            
+            <p>In Metaphysics, the questions is:</p>
+            <ul>
+            <li>What is real?</li>
+            <li>Is what we see real?</li>
+            <li>Is there more than we see?</li>
+            <li>Is there more than we sence?</li>
+            <li>Is there something else?</li>
+            <li>Is there something more?</li>
+            <li>Is there another dimension?</li>
+            </ul>
+            </div>
+    
+
+        <h1>Philosopy</h1>
+        <h3>Table of Contents</h3>
+        
+        <p>
+        INTRO
+        </p>
+        
+        <p>
+        CHAPTER 1
+        </p>
+        
+        <p>CHAPTER 2</p>
+</body>
+
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+restaurent
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Restaurant</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h5 {
+    font-family: "Raleway", sans-serif
+}
+body, html {
+    height: 100%
+}
+.bgimg {
+    background-image: url('./onepage_restaurant.jpg');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+</style>
+</head>
+<body>
+
+<div class="bgimg w3-display-container w3-text-white">
+<div class="w3-display-middle w3-jumbo">
+    <p>AKSHAI</p>
+</div>
+<div class="w3-display-topleft w3-container w3-xlarge">
+    <p><button onclick="document.getElementById('menu').style.display='block'" class="w3-button w3-black">Menu</button></p>
+    <p><button onclick="document.getElementById('contact').style.display='block'" class="w3-button w3-black">Contact</button></p>
+</div>
+<div class="w3-display-bottomleft w3-container">
+    <p class="w3-xlarge">monday - friday 10-23 | saturday 14-02</p>
+    <p class="w3-large">BS-||, Bengaluru</p>
+</div>
+</div>
+<div id="menu" class="w3-modal">
+    <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-black w3-display-container">
+        <span onclick="document.getElementById('menu').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+        <h1>Starters</h1>
+    </div>
+    <div class="w3-container">
+        <h5>Tomato Soup <b>₹250</b></h5>
+        <h5>Salad <b>₹350</b></h5>
+        <h5>Bread and Butter <b>₹100</b></h5>
+    </div>
+    <div class="w3-container w3-black">
+        <h1>Main Courses</h1>
+    </div>
+    <div class="w3-container">
+        <h5>Grilled Fish and Potatoes <b>₹850</b></h5>
+        <h5>Italian Pizza <b>₹550</b></h5>
+        <h5>Veggie Pasta <b>₹400</b></h5>
+        <h5>Chicken and Potatoes <b>₹650</b></h5>
+        <h5>Deluxe Burger <b>₹500</b></h5>
+    </div>
+    <div class="w3-container w3-black">
+        <h1>Desserts</h1>
+    </div>
+    <div class="w3-container">
+        <h5>Fruit Salad <b>₹250</b></h5>
+        <h5>Ice cream <b>₹200</b></h5>
+        <h5>Chocolate Cake <b>₹400</b></h5>
+        <h5>Cheese <b>₹550</b></h5>
+    </div>
+</div>
+</div>
+<div id="contact" class="w3-modal">
+    <div class="w3-modal-content w3-animate-zoom">
+    <div class="w3-container w3-black">
+        <span onclick="document.getElementById('contact').style.display='none'" class="w3-button w3-display-topright w3-large">x</span>
+        <h1>Contact</h1>
+    </div>
+    <div class="w3-container">
+        <p>Reserve a table, ask for today's special or just send us a message:</p>
+        <form action="#" target="_blank">
+        <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Name" required name="Name"></p>
+        <p><input class="w3-input w3-padding-16 w3-border" type="number" placeholder="How many people" required name="People" min="1"></p>
+        <p><input class="w3-input w3-padding-16 w3-border" type="datetime-local" placeholder="Date and time" required name="date" value="2023-06-30T20:00"></p>
+        <p><input class="w3-input w3-padding-16 w3-border" type="text" placeholder="Message \ Special requirements" required name="Message"></p>
+        <p><button class="w3-button" type="submit">SEND MESSAGE</button></p>
+        </form>
+    </div>
+    </div>
+</div>
+
+</body>
+</html>
+
+--------------------------------------------------------------------------------------------------
+
+timetable
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Time Table</title>
+
+</head>
+<body>
+    <style>
+        table{
+            border-collapse: collapse;
+            margin-left: auto;  
+            margin-right: auto;  
+            background-color: whitesmoke;
+            }
+    td, th {  
+            border: 2px solid #000000;  
+            text-align: center;  
+            padding: 8px;  
+            }  
+    tr:nth-child(even)
+    {
+        background-color: lightgray;
+    }
+
+    </style>
+    <h1 style="text-align: center;">ISE 6<sup>th</sup> Sem Time Table</h1>
+    <BR>
+        <BR>
+    <table><h1>
+        <tr >
+            <th height="30" width="100">
+                Day/Time
+            </th>
+            <th height="30" width="100">
+                9:00 - 10:00
+            </th>
+            <th height="30" width="100">
+                10:00 - 11:00
+            </th>
+            <th height="30" width="50">
+                11:00 <BR>-<BR> 11:30
+            </th>
+            <th height="30" width="100">
+                11:30 - 12:30
+            </th>
+            <th height="30" width="100">
+                12:30 - 1:30
+            </th>
+            <th height="30" width="50">
+                1:30<BR> -<BR> 2:10
+            </th>
+            <th height="30" width="100">
+                2:10 - 3:10
+            </th>
+            <th height="30" width="100">
+                3:30 - 4:10
+            </th>
+        </tr></h1>
+        <tr>
+            <th height="30" width="100">
+                MONDAY
+            </th>
+            <td align="center" height="30" width="100">
+                FS<BR>(LV)
+            </td>
+            <td align="center" height="30" width="100">
+                ST<br>(Dr.JH)
+            </td>
+            <td rowspan="6" align="center" height="50">
+                <br>B<br>R<br>E<br>A<br>K
+            </td>
+            <td  colspan="2" align="center" height="30" width="100">
+                LAB-PERIOD
+            </td>
+            <td  rowspan="6" align="center" height="30" width="50">
+                <br>L<br>U<br>N<br>C<br>H
+            </td>
+            <td align="center" height="30" width="100">
+                PLACEMENT
+            </td>
+            <td  align="center" height="30">
+                DMDW<br>AJAVA
+            </td>
+        </tr>
+        <tr>
+            <th height="30" width="100">
+                TUESDAY
+            </th>
+            <td align="center" height="30" width="100">
+                ST<br>(Dr.JH)
+            </td>
+            <td align="center" height="30" width="100">
+                FS<BR>(LV)
+            </td>
+            <td  colspan="2" align="center" height="30" width="100">
+                RES<br>IDA
+            </td>
+            <td  colspan="2" align="center" height="30" width="100">
+            
+            </td>
+        </tr>
+        <tr>
+            <th height="30" width="100">
+                WEDNESDAY
+            </th>
+            <td  align="center" height="30">
+                DMDW<br>AJAVA
+            </td>
+            <td align="center" height="30" width="100">
+                WTA<br>(RTV)
+            </td>
+            <td  align="center" height="30" width="100">
+                ST<br>(Dr.JH)
+            </td>
+            <td  align="center" height="30" width="100">
+                FS<br>(LV)
+            </td>
+            <td colspan="2" align="center" height="30">
+                LAB-PERIODS
+            </td>
+        </tr>
+        <tr>
+            <th height="30" width="100">
+                THRUSDAY
+            </th>
+            <td align="center" height="30" width="100">
+                FS<BR>(LV)
+            </td>
+            <td align="center" height="30" width="100">
+                ST<br>(Dr.JH)
+            </td>
+            <td  colspan="2" align="center" height="30" width="100">
+                RES<br>IDA
+            </td>
+            <td colspan="2" align="center" height="30">
+                WTA Lab<BR>(RTV)
+            </td>
+        </tr>
+        <tr>
+            <th height="30" width="100">
+                FRIDAY
+            </th>
+            <td align="center" height="30" width="100">
+                WTA<BR>(RTV)
+            </td>
+            <td align="center" height="30" width="100">
+                ST<br>(Dr.JH)
+            </td>
+            <td  align="center" height="30" width="100">
+                DMDW<BR>AJAVA
+            </td>
+            <td  align="center" height="30" width="100">
+                FS<br>(LV)
+            </td>
+            <td  colspan="2" align="center" height="30" width="100">
+                LAB-PERIODS
+            </td>
+        </tr>
+        <tr>
+            <th height="30" width="100">
+                SATURDAY
+            </th>
+            <td align="center" height="30" width="100">
+                ST(T)<BR>(Dr.JH)
+            </td>
+            <td align="center" height="30" width="100">
+                FS(T)<br>(LV)
+            </td>
+            </td>
+            <td  align="center" height="30" width="100">
+                ST(T)<BR>(Dr.JH)
+            </td>
+            <td  align="center" height="30" width="100">
+                DMDW<BR>AJAVA
+            </td>
+            <td align="center" height="30" width="100">
+                FS(T)<br>(LV)
+            </td>
+            <td align="center" height="30">
+                WTA<br>(RTV)
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+cllgwebsite
+
+Cllg.html: 
+<html>
+<head>
+<title>Home</title>
+</head>
+<frameset rows="25%,*">
+<frame src="frame1.html">
+<frameset cols="25%,*">
+<frame src="frame2.html" name="f2">
+<frame src="frame3.html" name="f3">
+</frameset>
+</html>
+Frame1.html 
+<html>
+<head><title>frame1</title>
+</head>
+<body bgcolor="#e9e4dc">
+<h1 style="color:black;font-size:25pt;text-align: center;">BNM Intitute of 
+Technology</h1>
+<h3 style="word-wrap:break-word">BNMIT has been accredited with ‘A’ Grade by 
+NAAC. All UG branches – CSE, ECE, EEE, ISE & Mech.E accredited by NBA for the 
+academic years 2018-19 to 2024-25 and valid up-to 30.6.2025</h3>
+</h1>
+</body>
+</html>
+Frame2.html 
+<html>
+<head><title>frame2</title>
+    <style type="text/css">
+h1
+{ 
+font-size:25pt; 
+} 
+</style>
+</head>
+<body bgcolor="skyblue">
+<h1>LINKS</h1>
+<a href="intro.html" target=f3>Introduction</a><br>
+<a href="dept.html" target=f3>Departments</a><br>
+<a href="ad.html" target=f3>Address</a><br>
+</body>
+</html>
+Frame3.html 
+<html>
+<head><title>1st page</title>
+<link rel="stylesheet" type="text/css" href="C:\Documents and
+Settings\Administrator\Desktop\ab\css1.css"/>
+</head>
+<body bgcolor="#FFE4B5">
+<h2> <center>About BNMIT</center></h2>
+<h3><center>
+    BNMEI – B.N.M Educational Institutions was established by the trust 
+Bhageerathi Bai Narayana Rao Maanay Charities in the year 1972. The Managing 
+Trustee Shri. N. Raghunath Rao Maanay along with Prof. Sunanda P Jadhav the 
+founder Secretary and Principal founded the institution with a focused vision 
+to impart value based quality education irrespective of social, financial or 
+religious status. Prof. Sunanda P. Jadhav strived to provide education at 
+affordable cost especially to the girl child and her unstinted efforts yielded 
+highly commendable results.From a humble beginning the BNM group of 
+Educational Institutions is now a leader in the field of education, providing 
+the most modern education while maintaining the rich cultural heritage of the 
+great India. 
+    
+    Education starts at BNM offering Montessori system to Tiny Tots at the 
+tender age of two and half years in the BNM Montessori House.BNM is an amalgam 
+of Educational Institutions consisting of BNM Montessori House, BNM Primary 
+School (State Syllabus), BNM High School (State Syllabus), BNM Public School 
+(Central Syllabus), BNM PU College, BNM Degree College and BNM Institute of 
+Technology.</center></h3>
+</body>
+</html>
+Ad.html
+<html>
+
+<head><title>ADDRESS</title>
+
+</head>
+
+<body>
+
+<p>
+
+<font style="text-align: center;"><h3 style="text-align: center;">
+
+Name:BNM Institute of Technology<br>
+
+Location:Bengaluru<br>
+
+Contact No:9999999999<br>
+
+Website: www.google.com<br></h3>
+
+</font>
+
+</p>
+
+</body>
+
+</html>
+
+Intro.html 
+
+<html>
+
+<head><title>intro</title>
+
+</head>
+
+<body >
+
+<font color=BLACK>
+
+<p>
+
+<H2>Welcome to BNM Institute of Technology - 
+
+Affiliated to VTU</H2> <br>
+
+<br>
+
+<H3>BNMEI – B.N.M Educational Institutions was established by the trust 
+
+Bhageerathi Bai Narayana Rao Maanay Charities in the year 1972. The Managing 
+
+Trustee Shri. N. Raghunath Rao Maanay along with Prof. Sunanda P Jadhav the 
+
+founder Secretary and Principal founded the institution with a focused vision 
+
+to impart value based quality education irrespective of social, financial or 
+
+religious status. Prof. Sunanda P. Jadhav strived to provide education at 
+
+affordable cost especially to the girl child and her unstinted efforts yielded 
+
+highly commendable results. From a humble beginning the BNM group of 
+
+Educational Institutions is now a leader in the field of education, providing 
+
+the most modern education while maintaining the rich cultural heritage of the 
+
+great India.</H3>
+
+</p>
+
+</font>
+
+</body>
+
+</html>
+
+Dept.html 
+
+<html>
+
+<head><title>Departments</title>
+
+</head>
+
+<p>&nbsp;</p>
+    <header><h1>Departments are:</h1></header>
+<body style="text-align: center;">
+    <h3 style="text-align: center";>
+<ol>
+    <li>CSE</li>
+    <li>ISE</li>
+    <li>ECE</li>
+    <li>EEE</li>
+    <li>Mechanical</li>
+</ol>
+</h3>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+simple calci
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Calculator</title>
+    <style>
+        table, td, th {
+            border: 1px solid black;
+            width: 33%;
+            text-align: center;
+            background-color: darkgray;
+            border-collapse: collapse;
+        }
+        table {
+            margin: auto;
+        }
+        input {
+            text-align: right;
+        }
+    </style>
+    <script type="text/javascript">
+        function calc(id) {
+            var v1 = parseFloat(document.getElementById("v1").value);
+            var v2 = parseFloat(document.getElementById("v2").value);
+            if(isNaN(v1) || isNaN(v2))
+                alert("Enter valid number");
+            else {
+                var res = document.getElementById("ans");
+                if(id === "add")
+                    res.value = v1 + v2;
+                else if(id === "sub")
+                    res.value = v1 - v2;
+                else if(id === "mul")
+                    res.value = v1 * v2;
+                else if(id === "div")
+                    res.value = v1 / v2;
+            }
+        }
+        function cls() {
+            document.getElementById("v1").value = 0;
+            document.getElementById("v2").value = 0;
+            document.getElementById("ans").value = "";
+        }
+    </script>
+</head>
+<body>
+    <table>
+        <tr>
+            <th colspan="4">Simple Calculator</th>
+        </tr>
+        <tr>
+            <td>Value 1:</td>
+            <td>
+                <input type="number" name="v1" id="v1" value="0" />
+            </td>
+            <td>Value&nbsp2:</td>
+            <td> 
+                <input type="number" name="v2" id="v2" value="0" />
+            </td>
+        </tr>
+        <tr>
+            <td><button id="add" value="+" onclick="calc(this.id)">+</button></td>
+            <td><button id="sub" value="-" onclick="calc(this.id)">-</button></td>
+            <td><button id="mul" value="*" onclick="calc(this.id)">*</button></td>
+            <td><button id="div" value="/" onclick="calc(this.id)">/</button></td>
+        </tr>
+        <tr>
+            <td>Answer:</td>
+            <td>
+                <input type="text" name="ans" id="ans" disabled />
+            </td>
+            <td colspan="2"><button id="cls" value="C" onclick="cls()">Clear</button></td>
+        </tr>
+    </table>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+shrink
+
+/*3.	Write a JavaScript code that displays text “TEXT-GROWING” with increasing font size in the interval of 100ms in RED COLOR, when the font size reaches 50pt it displays “TEXTSHRINKING” in BLUE color. Then the font size decreases to 5pt. */
+
+
+
+<!DOCTYPE html>
+<html>
+<body>
+    <div id="h"></div>
+    <script>
+    var v = 0, f = 1,t="TEXT-GROWING",color;
+    function a()
+    {
+    if(f==1)
+    v+=5,color="red";
+    else
+    v-=5,color="blue";
+    document.getElementById("h").innerHTML = "<h1 style=\"font-size: "+v+"px ; margin: 0px; color : "+color+"\"><b> "+t+"</b></h1>";
+    if(v==50)
+    f = 0, t="TEXT-SHRINKING";
+    if(v==5)
+    f = 1, t="TEXT-GROWING";
+    c();
+}
+    function c()
+    {
+    setTimeout(a,300);
+    }
+    c();
+</script>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+string vowel & num reverse
+
+<!--/*Develop and demonstrate a HTML5 file that includes JavaScript script that uses functions for the following problems: 
+a. Parameter: A string 
+b. Output: The position in the string of the left-most vowel 
+c. Parameter: A number 
+d. Output: The number with its digits in the reverse order.
+ */-->
+<html>
+<body>
+<script type="text/javascript">
+var str = prompt("Enter the Input","");
+if(!(isNaN(str)))
+{
+var num,rev=0,remainder;
+num = parseInt(str);
+while(num!=0) {
+remainder = num%10;
+num = parseInt(num/10);
+rev = rev * 10 + remainder;
+}
+alert("Reverse of "+str+" is "+rev);
+}
+else
+{
+str = str.toUpperCase();
+for(var i = 0; i < str.length; i++) {
+var chr = str.charAt(i);
+if(chr == 'A' || chr == 'E' || chr == 'I' || chr == 'O' || chr == 'U')break;
+}
+if( i < str.length )
+alert("The position of the left most vowel is "+(i+1));
+else
+alert("No vowel found in the entered string");
+}
+</script>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+squares_cubes
+
+<!--/* Write a JavaScript that calculates the squares and cubes of the numbers from 0 to 10 and outputs HTML text that displays the resulting values in an HTML table format.*/
+-->
+
+<html>
+<head><title> Squares and Cubes </title></head>
+<script>
+    document.write('<p><b>SQUARES AND CUBES FROM 0 TO 10</b></p>');
+    document.write('<table border="2" cellspacing="2">');
+    document.write('<th> Number </th> <th> Square </th> <th> Cube </th>');
+    for(var i=1;i<=10;i++)
+        document.write("<tr><td>"+ i +"</td><td>"+ i*i + "</td><td>"+ i*i*i +"</td></tr>");
+    document.write("</table>");
+</script>
+</html>
+
+---------------------------------------------------------------------------------------------------
+
+xml
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="PROG5.css"?>
+<STUDENTDATA>
+ <STUDENT>
+  <USN>USN   : 3GN16CS002</USN>
+  <NAME>NAME : ABHISHEK MALI</NAME>
+  <COLLEGE>COLLEGE : GNDECB</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2019</YEAR>
+  <EMAIL>E-MAIL : abhishek@gmail.com</EMAIL>
+ </STUDENT>
+ <STUDENT>
+  <USN>USN : 3GN16CS029</USN>
+  <NAME>NAME : KESHAV POLA</NAME>
+  <COLLEGE>COLLEGE : GNDECB</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2019</YEAR>
+  <EMAIL>E-MAIL : keshav@gmail.com</EMAIL>
+ </STUDENT>
+ <STUDENT>
+  <USN>USN   : 3GN16CS027</USN>
+  <NAME>NAME : KARAN DANGE</NAME>
+  <COLLEGE>COLLEGE : GNDECB</COLLEGE>
+  <BRANCH>BRANCH :CSE</BRANCH>
+  <YEAR>YEAR : 2019</YEAR>
+  <EMAIL>E-MAIL : karan@gmail.com</EMAIL>
+ </STUDENT>
+ 
+</STUDENTDATA>
+
+// CREATE EXTERNAL CSS
+
+*{
+    display: block; font-size: 20px;
+}
+USN {
+    color: blue;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+----------------------------------------------------------------------------------------------------
+
+msg greeting
+
+<html>
+ <head>
+  <title>Greetings</title>
+ </head>
+ <body>
+
+ <?php
+  date_default_timezone_set("Asia/kolkata");
+  $hour=date("H");
+    
+  if($hour>=1 && $hour<12) 
+  { $msg = "Good Morning"; }
+  else if( $hour >= 12 && $hour<=16 ) 
+  { $msg = "Good Afternoon"; }
+  else
+  {
+    $msg="Good Evening";
+  }
+
+  echo( "$msg" );
+ ?>
+
+ </body>
+</html>
+  
+----------------------------------------------------------------------------------------------------
+
+sort
+
+<html>
+<body>
+<?php
+	$cars=array("volvo","BMW","Toyota");
+	sort($cars);
+	rsort($cars);
+	$len=count($cars);
+		for($x=0;$x<$len;$x++)
+			echo $cars[$x]."<br>";
+
+
+	$cars=array("volvo"=>"35","BMW"=>"36","Toyota"=>"43");
+	ksort($cars);
+	arsort($cars);
+	for each($cars as $x=>$x_value)
+			echo "key= ".$x." values= ".$x_value." <br>";
+?>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+multiple of 3 5
+
+<?php
+
+$str1="ISE";
+$str2="BNMIT";
+$Str3="ISEBNMIT";
+
+for ($i = 1; $i <= 100; $i++)
+{
+  if ( $i%3 == 0 && $i%5 == 0 )
+   {
+    echo($Str3. "&nbsp");
+   }
+  else if ( $i%3 == 0 ) 
+   {
+     echo($str1."&nbsp");
+   }
+     else if ( $i%5 == 0 ) 
+   {
+     echo $str2. "&nbsp";
+   }
+     else
+   {
+     echo "&nbsp" .$i."&nbsp\n";
+   }
+ }
+?>
+
+----------------------------------------------------------------------------------------------------
+
+visitors count
+
+<?php
+ echo "<h1> REFRESH PAGE </h1>" ;
+ $file = 'count.txt' ;
+ $c = file_get_contents($file) ;
+ file_put_contents($file, $c+1);
+ echo "The number of users visited : ".$c ;
+?>
+
+----------------------------------------------------------------------------------------------------
+
+current time php
+
+<head>
+ <meta http-equiv="refresh" content="1"/>
+ <style>
+  p {
+   color:yellow;
+   font-size:90px;
+   position:absolute;
+   top: 40%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+  }
+  body {
+   background-color:maroon;
+  }
+ </style>
+ <p> <?php echo date(" h: i : s A");?> </p>
+</head>
+
+----------------------------------------------------------------------------------------------------
+
+matrix add
+
+<?php
+$a1 = array(
+    array(4, 6, 7),
+    array(3, 9, 9),
+    array(5, 4, 8)
+);
+$a2 = array(
+    array(6, 7, 5),
+    array(9, 2, 1),
+    array(6, 8, 3)
+);
+$row = count($a1);
+$col = count($a1[0]);
+echo "First matrix:<br>";
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++) {
+        echo $a1[$i][$j] . " ";
+    }
+    echo "<br>";
+}
+echo "Second matrix: <br>";
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++) {
+        echo $a2[$i][$j] . " ";
+    }
+    echo "<br>";
+} 
+$sum = array();
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++) {
+        $sum[$i][$j] = $a1[$i][$j] + $a2[$i][$j];
+    }
+}
+echo "Addition of two matrices: <br>";
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++) {
+        echo $sum[$i][$j] . " ";
+    }
+    echo "<br>";
+}
+?>
+
+----------------------------------------------------------------------------------------------------
+
+matrix transpose
+
+<html>  
+<body>  
+<?php  
+//Initialize matrix a  
+$a = array(  
+            array(1, 2, 3),  
+            array(4, 5, 6),  
+            array(7, 8, 9)  
+           );  
+   
+//Calculates number of rows and columns present in given matrix  
+$rows = count($a);  
+$cols = count($a[0]);  
+ 
+//Declare array t with reverse dimensions and initialize it with 0  
+$t = array_fill(0, $cols, array_fill(0, $rows, 0));  
+   
+//Calculates transpose of given matrix  
+for($i = 0; $i < $cols; $i++){  
+    for($j = 0; $j < $rows; $j++){  
+        //Converts the row of original matrix into column of transposed matrix  
+        $t[$i][$j] = $a[$j][$i];  
+    }  
+}  
+   
+print("Transpose of given matrix: <br>");  
+for($i = 0; $i < $cols; $i++){  
+    for($j = 0; $j < $rows; $j++){  
+       print($t[$i][$j] . " ");  
+    }  
+    print("<br>");  
+}  
+?>  
+</body>  
+</html>  
+
+
+<?php 
+$a1 = array(
+    array(1, 2, 3),
+    array(4, 5, 6),
+    array(7, 8, 9)
+); 
+
+$a2 = array(
+    array(9, 8, 7),
+    array(6, 5, 4),
+    array(3, 2, 1)
+);
+$row = count($a1);
+$col = count($a1[0]);
+$mul = array();
+echo "The first matrix is: <br>";
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++)
+    {
+        echo $a1[$i][$j] . " ";
+    }
+    echo "<br>";
+}
+echo "The second matrix is: <br>";
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++) {
+        echo $a2[$i][$j] . " ";
+    }
+    echo "<br>";
+}
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++) {
+            for ($k = 0; $k < $row; $k++) {
+                $mul[$i][$j] = $mul[$i][$j] + $a1[$i][$k] * $a2[$k][$j];
+        }
+    }
+}
+echo "Product is: <br>";
+for ($i = 0; $i < $row; $i++) {
+    for ($j = 0; $j < $col; $j++) {
+        echo $mul[$i][$j] . "  ";
+    }
+    echo "<br>";
+}
+?>
+<!-- multiply $result[$i][$j]+=$a[$i][$k]+$b[$k][$j]; -->
+
+----------------------------------------------------------------------------------------------------
+
+calci php
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Arithmetic Calculator</title>
+</head>
+<body>
+    <form method="POST" action="">
+        <label for="num1">Number 1:</label>
+        <input type="number" name="num1" id="num1" required><br><br>
+
+        <label for="num2">Number 2:</label>
+        <input type="number" name="num2" id="num2" required><br><br>
+
+        <label for="operation">Select Operation:</label>
+        <select name="operation" id="operation">
+            <option value="add">Addition</option>
+            <option value="sub">Subtraction</option>
+            <option value="mul">Multiplication</option>
+            <option value="div">Division</option>
+        </select><br><br>
+
+        <input type="submit" value="Calculate">
+    </form>
+
+    <?php
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $num1 = $_POST["num1"];
+        $num2 = $_POST["num2"];
+        $operation = $_POST["operation"];
+
+        $result = 0;
+        $operator = "";
+
+        switch ($operation) {
+            case "add":
+                $result = $num1 + $num2;
+                $operator = "+";
+                break;
+
+            case "sub":
+                $result = $num1 - $num2;
+                $operator = "-";
+                break;
+
+            case "mul":
+                $result = $num1 * $num2;
+                $operator = "*";
+                break;
+
+            case "div":
+                if ($num2 != 0) {
+                    $result = $num1 / $num2;
+                    $operator = "/";
+                } else {
+                    echo "Error: Division by zero is not allowed.";
+                }
+                break;
+        }
+
+        if ($operator != "") {
+            echo "<br>Result: $num1 $operator $num2 = $result";
+        }
+    }
+    ?>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+job application
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Job Application Form</title>
+<style>
+    body {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: #416daf;
+    }
+
+    h1 {
+        text-align: center;
+        color: #333;
+    }
+
+    .container {
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        border-radius: 4px;
+    }
+
+    .form-group {
+        margin-bottom: 20px;
+    }
+
+    .form-group label {
+        display: block;
+        font-weight: bold;
+        margin-bottom: 5px;
+    }
+
+    .form-group input,
+    .form-group select {
+        width: 100%;
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+    }
+
+    .form-group button {
+        padding: 10px 20px;
+        background-color: #ff0000;
+        color: #fff;
+
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+    }
+    .form-group button:hover {
+        background-color: #45a049;
+    }
+    .error-message {
+    color: #ff0000;
+    margin-top: 5px;
+    }
+    </style>
+    <script>
+function validateJobApplication() {
+    var fullName = document.getElementById('fullName').value;
+    var email = document.getElementById('email').value;
+    var phone = document.getElementById('phone').value;
+    var namePattern = /^[a-zA-Z\s]+$/;
+    var emailPattern = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    var phonePattern = /^\d{10}$/;
+
+
+    if (!fullName.match(namePattern)) {
+    alert('Please enter a valid name.');
+    return false;
+    }
+
+    if (!email.match(emailPattern)) {
+    alert('Please enter a valid email address.');
+    return false;
+    }
+
+    if (!phone.match(phonePattern)) {
+    alert('Please enter a valid phone number (10 digits only).');
+    return false;
+    }
+
+    alert('Job application submitted successfully!');
+    return true;
+}
+
+    </script>
+</head>
+<body>
+    <div class="container">
+    <h1 style="text-align: center;">Job Application Form</h1>
+    <form onsubmit="return validateJobApplication()">
+        <div class="form-group">
+        <label for="fullName">Full Name</label>
+        <input type="text" id="fullName" required>
+        </div>
+
+    <div class="form-group">
+        <label for="email">Email</label>
+        <input type="email" id="email" required>
+    </div>
+
+    <div class="form-group">
+        <label for="phone">Phone</label>
+        <input type="tel" id="phone" required>
+    </div>
+
+    <div class="form-group">
+        <center>
+        <button type="submit">Submit</button>
+    </center>
+    </div>
+    </form>
+</div>
+</body>
+</html>
+
+----------------------------------------------------------------------------------------------------
+
+php names states 
+
+<?php
+$states = "Mississippi Alabama Texas Massachusetts Kansas";
+$statesArray = [];
+$states1 = explode(' ',$states);
+echo "Original Array :<br>";
+foreach ( $states1 as $i => $value )
+print("STATES[$i]=$value<br>");
+foreach($states1 as $state)
+{
+if(preg_match( '/xas$/', ($state)))
+$statesArray[0] = ($state);
+}
+foreach($states1 as $state)
+{
+if(preg_match('/^k.*s$/i', ($state)))
+$statesArray[1] = ($state);
+}
+foreach($states1 as $state)
+{
+if(preg_match('/^M.*s$/', ($state)))
+$statesArray[2] = ($state);
+}
+foreach($states1 as $state)
+{
+if(preg_match('/a$/', ($state)))
+$statesArray[3] = ($state);
+}
+echo "<br><br>Resultant Array :<br>";
+foreach ( $statesArray as $array => $value )
+print("STATES[$array]=$value<br>");
+?>
+
+----------------------------------------------------------------------------------------------------
+
+sql php
+
+<?php
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbname = "student";
+$a=[];
+$conn = mysqli_connect($servername, $username, $password, $dbname);
+if ($conn->connect_error)
+    die("Connection failed: " . $conn->connect_error);
+$sql = "SELECT * FROM student";
+$result = $conn->query($sql);
+$a = array();
+echo "<br>";
+echo "<center> BEFORE SORTING </center>";
+echo "<table border='2'>";
+echo "<tr>";
+echo "<th>USN</th><th>NAME</th><th>Address</th></tr>";
+if ($result->num_rows > 0)
+{
+    $i = 0;
+    while($row = $result->fetch_assoc()) 
+    {
+        $a[$i++] = $row["USn"];
+        echo "<tr><td>".$row["USn"]."</td>";
+        echo "<td>".$row["name"]."</td>";
+        echo "<td>".$row["address"]."</td></tr>";
+    }
+}
+else
+    echo "Table is Empty";
+echo "</table>";
+$n=count($a);
+$b=$a;
+$c=array();
+$d=array();
+for ( $i = 0 ; $i < ($n - 1) ; $i++ )
+{
+    for ( $j = 0 ; $j < $n - $i - 1 ; $j++ )
+    {
+        if ( $a[$j] < $a[$j + 1] )
+        {
+            $temp=$a[$j];
+            $a[$j] = $a[$j + 1];
+            $a[$j + 1] = $temp;
+
+            $temp=$b[$j];
+            $b[$j] = $b[$j + 1];
+            $b[$j + 1] = $temp;
+        }
+    }
+}
+$result = $conn->query($sql);
+if ($result->num_rows > 0)// output data of each row
+{
+    while($row = $result->fetch_assoc())
+    {
+        for($i=0;$i<$n;$i++)
+        {
+            if($row["USn"] == $a[$i])
+            {
+                $c[$i]=$row["name"];
+                $d[$i]=$row["address"];
+            }
+        }
+    }
+}
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<br>";
+echo "<center> AFTER SORTING <center>";
+echo "<table border='2'>";
+echo "<tr>";
+echo "<th>USN</th><th>NAME</th><th>Address</th></tr>";
+for($i=0;$i<$n;$i++)
+{
+    echo "<tr><td>". $a[$i]."</td>";
+    echo "<td>". $c[$i]."</td>";
+    echo "<td>". $d[$i]."</td></tr>";
+}
+echo "</table>";
+$conn->close();
+?>
+
+
+------------------------------------------------------------------------------------------------------------------
+
+php avg
+
+<?php
+$month_temp = "78, 60, 62, 68, 71, 68, 73, 85, 66, 64, 76, 63, 81, 76, 73,
+68, 72, 73, 75, 65, 74, 63, 67, 65, 64, 68, 73, 75, 79, 73";
+$temp_array = explode(',', $month_temp);
+$tot_temp = 0;
+$temp_array_length = count($temp_array);
+foreach($temp_array as $temp)
+{
+ $tot_temp += $temp;
+}
+ $avg_high_temp = $tot_temp/$temp_array_length;
+ echo "Average Temperature is : ".$avg_high_temp."
+ <br>"; 
+sort($temp_array);
+echo " List of five lowest temperatures :<br>";
+for ($i=0; $i< 5; $i++)
+{ 
+echo $temp_array[$i].", ";
+}
+echo "<br>List of five highest temperatures :";
+for ($i=($temp_array_length-5); $i< ($temp_array_length); $i++)
+{
+echo $temp_array[$i].", ";
+}
+?>
